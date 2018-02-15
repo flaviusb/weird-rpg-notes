@@ -15,6 +15,7 @@ Exalted Charms:
   - Equipment - Alchemicals
     - Eg Weapons, Armour, Vehicles, Accoutrements, Tools, Factories, Lockpicks, Paperwork
   - Stunts - The nonexistent Rakshasa Exalted
+- The Infernals are interesting because they were opened up to Charms from the Principles of a number of Yozi.
 
 Principles connect to/are Shintai. Primordial Shintai, Twisted Shintai, Dead Shintai, and Lesser Shintai.
 

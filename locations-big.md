@@ -9,7 +9,7 @@ The Void
 
 The Labyrinth
 - Surrounds the Mouth of the Void
-- Onloy reachable from a shadowland
+- Only reachable from a shadowland
 
 The Shadowlands
 - ...

@@ -17,7 +17,7 @@ Gods
 - Orders/Tasks
 - No Free Will, but also kind of workshy and useless, but also fully bound by Fate and Motivation
 
-Primordials
+The Unbound/The Free
 - Principle
 - Unique Keyword
 - Unique Weakness
@@ -31,7 +31,7 @@ Primordials
 - Can be a Patron
 - Free Will
 
-Yozi
+The Bound/The Broken
 - Principle
 - Unique Keyword
 - Unique Weakness
@@ -45,7 +45,7 @@ Yozi
 - Can be a Patron
 - Free Will
 
-Neverborn
+The Buried/The Murdered
 - Lost Principle
 - Nightmares
 - Inner Realms/Harrowings
@@ -57,9 +57,9 @@ Neverborn
 - Can be a Patron
 - Destrudo/Mortido as such instead of Free Will
 
-Rakshasa
-- Graces - Staff, Ring, Heart etc
-- Big enough Rakshasa can have Waypoints/Waygates inside, much like an Inner Realm
+The Unshaped/The Unbidden
+- Graces - Staff, Ring, Heart, Sword, Cup,  etc
+- Big enough Unshaped can have Waypoints/Waygates inside, much like an Inner Realm
 
 Ghosts
 - Lose all access to Sorcery, Necromancy - can teach, though
@@ -70,8 +70,8 @@ Dragon Kings
 - No Free Will
 ...
 
-Exalts:
-- Free Will that can occasionally defy Fate itself
+Chosen:
+- Free Will that can occasionally defy Fate itself - that is, they do not need as big a Stunt to Defy Fate
 ...
 
 

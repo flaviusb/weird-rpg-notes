@@ -3,7 +3,7 @@ Charms:
 - Charms can gate you into a thing that is not really a charm as such
   - Eg Sorcerous Initiation Charms, Necromantic Initiation Charms, Martial Arts Charms, Astrology Charms, ...
 
-Exalted Charms:
+Chosen Charms:
 - The Principles all had to be things compatible with Humans
 - Each Exaltation Type could only fit one Principle
   - Attributes - Lunars
@@ -32,3 +32,6 @@ Extraordinary actions vs ordinary actions
 - Eg crafting usable tools out of random detritus is an extraordinary action, which usually consumes points worth of valid stunts equal to the square of the level of the tool
 - But, you could have a charm that makes construction of usable tools out of random detritus an ordinary action, as long as you meet some condition
 - Flipping Fate to an alternate interpretation is 
+
+The Unbound/Free, The Bound/Broken, The Buried/Murdered
+The Unshaped/Unbidden

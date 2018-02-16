@@ -1,15 +1,18 @@
-Autocthon
-- Crafting
-- Tools
-- Voidcancer -> The impossible
+The Worker and their Tools
+- Workers, Craftspeople, Crafting, Tools, Workshops, Factories, Automation
+- The Touch of the Void -> Manifesting the impossible
 - Mortality
+- Class conflict
 - Uses tools for things, rather than creating servitor races
+- Conducts some fairly horrible soul surgery on themself
 - Programs?
+- Creates the Engine of Choice
 
-Gaia
-- Creation, as in the tying together of Shintai to create a non-Wyld space that is semi self-sustaining
-- Dragons?
-- The Elements
+Terra
+- Creation
+- The resonance between Principles
+- The drawing together of lesser Principles
+- Endurance/constancy
 - Kami
-
+- The Chosen of Blood
 

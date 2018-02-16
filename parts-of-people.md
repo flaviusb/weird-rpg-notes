@@ -13,7 +13,7 @@ Gods
 - Go from least to greatest - essence epsilon to essence 10
 - Portfolio
 - Cult
-- Charms
+- Seals
 - Orders/Tasks
 - No Free Will, but also kind of workshy and useless, but also fully bound by Fate and Motivation
 
@@ -21,7 +21,7 @@ The Unbound/The Free
 - Principle
 - Unique Keyword
 - Unique Weakness
-- Charms
+- Seals
 - Jouten form
   - Originally created to be able to use waypoints
 - 3rd Circle Souls
@@ -35,7 +35,7 @@ The Bound/The Broken
 - Principle
 - Unique Keyword
 - Unique Weakness
-- Charms
+- Seals
 - Jouten form
   - ...
 - 3rd Circle Souls
@@ -50,7 +50,7 @@ The Buried/The Murdered
 - Nightmares
 - Inner Realms/Harrowings
 - Arcanoi
-- Charms
+- Seals
 - Native Necromancy
 - Virtues/Limit?
 - Essence 10, can reach 12.

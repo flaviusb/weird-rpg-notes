@@ -1,9 +1,9 @@
-Charms:
-- Charms fill out a Principle; each Charm Tree lives inside an Aspect of the Principle
-- Charms can gate you into a thing that is not really a charm as such
-  - Eg Sorcerous Initiation Charms, Necromantic Initiation Charms, Martial Arts Charms, Astrology Charms, ...
+Seals:
+- Seals fill out a Principle; each Seal Tree lives inside an Aspect of the Principle
+- Seals can gate you into a thing that is not really a Seal as such
+  - Eg Sorcerous Initiation Seals, Necromantic Initiation Seals, Martial Arts Seals, Astrology Seals, ...
 
-Chosen Charms:
+Chosen Seals:
 - The Principles all had to be things compatible with Humans
 - Each Exaltation Type could only fit one Principle
   - Attributes - Lunars
@@ -11,11 +11,11 @@ Chosen Charms:
   - Backgrounds - Sideareals
     - Eg Resources, Status, Face etc...
   - Action Types/Roles/States - Dragonblooded
-    - Eg the Injured charm tree, the Combat charm tree, the Joining Battle charm tree, the Mass Combat charm tree, the Downtime charm tree, the Group Action charm tree...
+    - Eg the Injured Seal tree, the Combat Seal tree, the Joining Battle Seal tree, the Mass Combat Seal tree, the Downtime Seal tree, the Group Action Seal tree...
   - Equipment - Alchemicals
     - Eg Weapons, Armour, Vehicles, Accoutrements, Tools, Factories, Lockpicks, Paperwork
   - Stunts - The nonexistent Rakshasa Exalted
-- The Infernals are interesting because they were opened up to Charms from the Principles of a number of Yozi.
+- The Infernals are interesting because they were opened up to Seals from the Principles of a number of Yozi.
 
 Principles connect to/are Shintai. Primordial Shintai, Twisted Shintai, Dead Shintai, and Lesser Shintai.
 
@@ -30,7 +30,7 @@ Defying Fate is an extraordinary action for anyone who is not a Chosen.
 Extraordinary actions vs ordinary actions
 - Extraordinary action consume stunts, ordinary actions are boosted (eg, they get dice bonus plus a kicker) by stunts
 - Eg crafting usable tools out of random detritus is an extraordinary action, which usually consumes points worth of valid stunts equal to the square of the level of the tool
-- But, you could have a charm that makes construction of usable tools out of random detritus an ordinary action, as long as you meet some condition
+- But, you could have a Seal that makes construction of usable tools out of random detritus an ordinary action, as long as you meet some condition
 - Flipping Fate to an alternate interpretation is 
 
 The Unbound/Free, The Bound/Broken, The Buried/Murdered

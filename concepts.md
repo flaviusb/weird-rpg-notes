@@ -22,3 +22,13 @@ Principles connect to/are Shintai. Primordial Shintai, Twisted Shintai, Dead Shi
 The Loom of Fate is connected to the Stars. There are no Stars in Malfeas, and any Stars in a Waypoint are completely local to it.
 
 Creation's wake/the echoes left by the clash of Shintai/powerful enough acts of Shaping leave marks that show up in waygates in the Wyld.
+
+Fave vs predetermination - anything that is predetermined will happen, but predetermination is a lot looser than 'Fate'.
+Eg you are fated as a mortal to be killed by a group of Chosen, but instead you kill them. You defied Fate, but it was predetermined that if the meeting happened, it would end in killing.
+Defying Fate is an extraordinary action for anyone who is not a Chosen.
+
+Extraordinary actions vs ordinary actions
+- Extraordinary action consume stunts, ordinary actions are boosted (eg, they get dice bonus plus a kicker) by stunts
+- Eg crafting usable tools out of random detritus is an extraordinary action, which usually consumes points worth of valid stunts equal to the square of the level of the tool
+- But, you could have a charm that makes construction of usable tools out of random detritus an ordinary action, as long as you meet some condition
+- Flipping Fate to an alternate interpretation is 

@@ -1,8 +1,8 @@
-Chosen of Blood
-- Lineage
-- Element
-- Dragon
-- Cheap supplemental seal
+Chosen of Terra
+- Lineage/The upper class
+- Alcahest, Azoth, Sulphur, Mercury?, Salt
+- Lizard people? Or is this too derp?
+- Cheap supplemental seals
 - Seals, Anima, and low level Sorcery and Martial Arts?
 - Themes
   - The current rulers and princelings and 1%
@@ -12,7 +12,7 @@ Chosen of Blood
   - Living in a Fallen World (but at least you are at the top)
   - Dark Fantasy boarding school
 
-Lunars
+The Chosen of Luna
 - The Wyld
 - Dreams
 - Transformation
@@ -28,9 +28,15 @@ Lunars
   - Borders, boundaries, mirrors, the Other, reflections, dreams, masks, lies
   - But also: stewardship, being a manic pixie dreamgirl with a long dead partner, bitterness, the ability to mold yourself into whatever you need to be
 
-Abyssals
+The Chosen of The Dead
 - Death
 - Oblivion
 - The Void
 - Resonance
 - Being a murder machine
+- Necromancy
+
+The Chosen of Sol Invictus
+- Winning
+- Large scale, big picture
+- Inviolability, 

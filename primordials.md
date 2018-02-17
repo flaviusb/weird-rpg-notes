@@ -7,6 +7,7 @@ The Worker and their Tools
 - Conducts some fairly horrible soul surgery on themself
 - Programs?
 - Creates the Engine of Choice
+- The Chosen of Work
 
 Terra
 - Creation
@@ -14,5 +15,5 @@ Terra
 - The drawing together of lesser Principles
 - Endurance/constancy
 - Kami
-- The Chosen of Blood
+- The Chosen of Terra
 

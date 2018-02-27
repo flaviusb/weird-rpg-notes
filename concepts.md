@@ -23,7 +23,7 @@ The Loom of Fate is connected to the Stars. There are no Stars in Malfeas, and a
 
 Creation's wake/the echoes left by the clash of Shintai/powerful enough acts of Shaping leave marks that show up in waygates in the Wyld.
 
-Fave vs predetermination - anything that is predetermined will happen, but predetermination is a lot looser than 'Fate'.
+Fate vs predetermination - anything that is predetermined will happen, but predetermination is a lot looser than 'Fate'.
 Eg you are fated as a mortal to be killed by a group of Chosen, but instead you kill them. You defied Fate, but it was predetermined that if the meeting happened, it would end in killing.
 Defying Fate is an extraordinary action for anyone who is not a Chosen.
 
@@ -35,3 +35,8 @@ Extraordinary actions vs ordinary actions
 
 The Unbound/Free, The Bound/Broken, The Buried/Murdered
 The Unshaped/Unbidden
+
+Flaws of Perfection
+- Any 'Perfect' ability must have several 'flaws of Perfection' that stop it from working. These flaws come in specific types and layers.
+
+The necessary vs the accident. Or, the essence vs the dross. Primordials were initially bundles of aspects bound together loosely in the spaces between stories that were made up of seals. They gained the 'dross' of forms after. Humans are made of dross, and can be Chosen to have seals after. This means that Primordials are much more bound to their Principles, as their dross serves the Principle, and only the friction between their Aspects gives them any real slack - that is, their dice come almost exclusively from Aspect bound dice adders, and their dross is usually pretty limited in how it can accumulate dice otherwise. Wheras for humans, even once they are Chosen, their dross is not bound to a single Principle.

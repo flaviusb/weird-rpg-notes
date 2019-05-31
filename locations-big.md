@@ -13,11 +13,29 @@ The Labyrinth
 
 The Shadowlands
 - ...
+- The Elemental Poles
+  - Incense
+  - Blood
+  - Shadow
 
 The Underworld
 ...
+- The Elemental Poles
+  - Tears
+  - Bone
+  - Ash
+
+Autochthon
+- The Elemental poles
+  - Crystal
+  - Metal
+  - Oil
+  - Smoke
+  - Steam
+  - Lightning
 
 The Wyld
+- No elemental poles
 - A gradation
   - Bordermarches, Middlemarches, The Deep Wyld
   - Waypoints
@@ -26,7 +44,7 @@ The Wyld
 Creation
 - The Five Elemental Poles
   - Earth, Wood, Water, Fire, Air
-  - Heaven
+- Heaven
 
 Inner Realms
 

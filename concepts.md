@@ -47,4 +47,6 @@ Draws and Feints
 Binds, Beats, and disengages
 Martial arts vs Melee as two actually different ways to structure combat (eg the gems vs plays, even down to eg different timing rules).
 
+---
 
+'Existence' instead of 'Essence'.

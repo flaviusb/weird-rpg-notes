@@ -1,7 +1,7 @@
 Chosen of Terra
+- Originally those who understood parts of the Great Work - cursed to be bloodlines instead, with the continual agnasia meaning they think they are arranged into five elements, descended from dragons.
 - Lineage/The upper class
-- Alcahest, Azoth, Sulphur, Mercury?, Salt
-- Lizard people? Or is this too derp?
+- Alcahest, Azoth, Sulphur, Mercury?, Salt, Bismuth, Lead, Antimony, Gold...
 - Cheap supplemental seals
 - Seals, Anima, and low level Sorcery and Martial Arts?
 - Themes

@@ -11,3 +11,19 @@ The Elementals represent local forms of nonlocal forces.
 And then there are the actual temporal powers, and the holdovers of previous powers.
 
 The Chosen of Sol Invictus did two things to make things work; the first thing was that they could actually compel the Gods (the so called Mandate of Heaven), and then the second thing is that they can build systems that...
+
+
+---
+
+The Worker and Their Tools has Afflictions/Wounds as one of their principles.
+
+The Dreamers all have a few things in common befoer they could exist.
+A big blob of coherent Essence - at least Essence 6.
+An Excellency Seal; the Excellency spells out in Italics the Principles of the Dreamer.
+A Name/Title Seal.
+A Sorcerous Enlightenment Seal.
+Any 'Pantheon' Seal.
+
+To Wake Up, the Dreamer needs to acquire Essence 10 and a Cosmic Principle Seal, a Fetich Soul through whatever means, a Shitai Seal, and a Jotun Seal.
+
+

@@ -16,7 +16,7 @@ The Shadowlands
 - The Elemental Poles
   - Incense
   - Blood
-  - Shadow
+  - Shrouds
 
 The Underworld
 ...

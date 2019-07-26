@@ -50,3 +50,25 @@ Martial arts vs Melee as two actually different ways to structure combat (eg the
 ---
 
 'Existence' instead of 'Essence'.
+
+---
+
+Sid Excellencies
+
+Gross   - Shaping + Sorcerous (Actually, you *did* vote for me)
+Vulgar  - Paradox, 'explainable'
+Subtle  - Expedites use only - eg adds to rolls using the background
+Sublime - 'Internal only'
+
+Supernal/Abyssal Evolved Excellencies - Inspire Others/Crush Others
+Lord of Stagnation progression for Abyssals based on balance betweeen positive and negative arete, Ennui score.
+
+What happens if you get a point of a thing and you do not have a track for it? Pop.
+
+Difference between point/dot and point/fixed track things.
+
+Tracks:
+Limit - Break
+Angst/Ennui - Pathos, Basthos, Catharsis (points can be either internal or from the Neverborn's dreams, and this affects how they work)
+Dialetheia - Decay into Paradox/Frag/Consequence/Hubris
+Oversight - ...?
